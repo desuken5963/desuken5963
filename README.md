@@ -3,7 +3,7 @@
 🚀 My GitHub stats, top skills, and achievements at a glance! Check out my coding journey and see what I’m passionate about. 🌟
 
 ## My Skills
-![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,react,materialui,docker,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,react,nextjs,tailwind,materialui,docker&theme=light)
 
 ## Wakame's GitHub stats
 ![Wakame's GitHub stats](https://github-readme-stats.vercel.app/api?username=desuken5963&show_icons=true&theme=radical)

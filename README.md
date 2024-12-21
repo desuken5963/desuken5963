@@ -5,8 +5,8 @@
 ## My Skills
 ![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,react,nextjs,tailwind,materialui,docker&theme=light)
 
-## Wakame's GitHub stats
-![Wakame's GitHub stats](https://github-readme-stats.vercel.app/api?username=desuken5963&show_icons=true&theme=radical)
+## Akira's GitHub stats
+![Akira's GitHub stats](https://github-readme-stats.vercel.app/api?username=desuken5963&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desuken5963&layout=compact&show_icons=true&theme=radical)

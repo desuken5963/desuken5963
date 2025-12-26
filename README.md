@@ -11,5 +11,5 @@
 ## Akira's GitHub stats
 ![Akira's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=desuken5963&show_icons=true)
 
-## Trophies / Metrics
-![Metrics](https://raw.githubusercontent.com/desuken5963/desuken5963/main/github-metrics.svg)
+## Trophies (Streak)
+![GitHub Streak](https://streak-stats.demolab.com?user=desuken5963&theme=radical)

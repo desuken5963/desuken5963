@@ -3,6 +3,7 @@
 🚀 My GitHub stats, top skills, and achievements at a glance! Check out my coding journey and see what I’m passionate about. 🌟
 
 ## My Skills
+
 ![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,react,nextjs,tailwind,materialui,docker&theme=light)
 
 ## Akira's GitHub stats
